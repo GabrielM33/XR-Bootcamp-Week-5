@@ -1,0 +1,11 @@
+Model Information:
+* title:	Halloween Scoreboard
+* source:	https://sketchfab.com/3d-models/halloween-scoreboard-3b31ebbaf353445ca11aff7886ecb0e7
+* author:	r2detta (https://sketchfab.com/r2detta)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Halloween Scoreboard" (https://sketchfab.com/3d-models/halloween-scoreboard-3b31ebbaf353445ca11aff7886ecb0e7) by r2detta (https://sketchfab.com/r2detta) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

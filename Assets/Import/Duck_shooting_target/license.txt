@@ -1,0 +1,11 @@
+Model Information:
+* title:	Duck shooting target
+* source:	https://sketchfab.com/3d-models/duck-shooting-target-f0028617b2744f3c8ccf228a1876345a
+* author:	Jesse (https://sketchfab.com/Leviiossa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Duck shooting target" (https://sketchfab.com/3d-models/duck-shooting-target-f0028617b2744f3c8ccf228a1876345a) by Jesse (https://sketchfab.com/Leviiossa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

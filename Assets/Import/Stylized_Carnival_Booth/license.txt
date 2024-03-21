@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Carnival Booth
+* source:	https://sketchfab.com/3d-models/stylized-carnival-booth-d8b4a661d433494184403c621818a424
+* author:	Keyotine (https://sketchfab.com/Keyotine)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Carnival Booth" (https://sketchfab.com/3d-models/stylized-carnival-booth-d8b4a661d433494184403c621818a424) by Keyotine (https://sketchfab.com/Keyotine) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

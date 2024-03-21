@@ -1,0 +1,11 @@
+Model Information:
+* title:	alarm clock
+* source:	https://sketchfab.com/3d-models/alarm-clock-f47db77d09fa4b9ca59927b02e2b33e9
+* author:	Ndeg0 (https://sketchfab.com/Andre101)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "alarm clock" (https://sketchfab.com/3d-models/alarm-clock-f47db77d09fa4b9ca59927b02e2b33e9) by Ndeg0 (https://sketchfab.com/Andre101) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

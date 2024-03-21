@@ -1,0 +1,11 @@
+Model Information:
+* title:	Creepy Circus Tent
+* source:	https://sketchfab.com/3d-models/creepy-circus-tent-54687a3046db4aa28978443d1740cd88
+* author:	Heber Soto (https://sketchfab.com/hebsoto)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Creepy Circus Tent" (https://sketchfab.com/3d-models/creepy-circus-tent-54687a3046db4aa28978443d1740cd88) by Heber Soto (https://sketchfab.com/hebsoto) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Woven basket low poly
+* source:	https://sketchfab.com/3d-models/woven-basket-low-poly-e544ba80962043448ab96498a7696310
+* author:	HolmHansen (https://sketchfab.com/HolmH)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Woven basket low poly" (https://sketchfab.com/3d-models/woven-basket-low-poly-e544ba80962043448ab96498a7696310) by HolmHansen (https://sketchfab.com/HolmH) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Pistol Cyberpunk
+* source:	https://sketchfab.com/3d-models/pistol-cyberpunk-8792da7b5bc94260968145f6d8d06b03
+* author:	Giuliano Bianco (https://sketchfab.com/Zauron93)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
